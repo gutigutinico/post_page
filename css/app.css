@@ -1,0 +1,8 @@
+.text-center{
+    text-align: center;
+    background-color: blueviolet;
+    color: cornsilk;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
